@@ -10,5 +10,8 @@
     "start": "node index.js"
   },
   "author": "shiva yadav",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
